@@ -1,0 +1,2 @@
+# Tryout_selenium_filling_in_forms
+I got bored tonight so I decide to learn something new. Selenium definitely sounds basic to many of you guys, but this was the first time I got to play with it. I used the following codes to scrape a drop down menu in one of the stories we did on the racial disparities among Missouri school districts. The codes allowed me to simply: 1) print every value listed in the menu; 2) select a certain value and output the results on the page. 
